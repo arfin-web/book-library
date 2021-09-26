@@ -1,6 +1,6 @@
 # Welcome To One of The Best Book Library
 
-This project was bootstrapped with [Create React App](https://kind-babbage-e89858.netlify.app/).
+This project was bootstrapped with [Book Library](https://kind-babbage-e89858.netlify.app/).
 
 # Major Featurs
 
