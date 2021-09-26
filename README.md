@@ -2,11 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://kind-babbage-e89858.netlify.app/).
 
-## Major Featurs
+# Major Featurs
 
-# World's top books you can find here
-# Read Worldclass books in affordable price
-# Easy payment gateway
+## World's top books you can find here
+## Read Worldclass books in affordable price
+## Easy payment gateway
 
 ### `npm start`
 
